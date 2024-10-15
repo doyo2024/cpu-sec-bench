@@ -2562,21 +2562,6 @@
             "290": "cheri capabilities enabled."
         }
     },
-    "mss-write-by-stack-pointer": {
-        "arguments": {
-            "0": [
-                "-roffset"
-            ]
-        },
-        "conf-macro": {
-            "0": {
-                "STEP": "8"
-            }
-        },
-        "require": {
-            "0": []
-        }
-    },
     "mss-write-by-bare-array-index-overflow-stack": {
         "program": "mss-write-by-bare-array-index",
         "default_args": {
